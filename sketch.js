@@ -96,7 +96,7 @@ function draw() {
     bola15.move();
   }
   
-  if(comptador > 500){
+  if(comptador > 200){
   //executem les funcions de text de les cantonades i títol
     lletres();
     textCantonades();
